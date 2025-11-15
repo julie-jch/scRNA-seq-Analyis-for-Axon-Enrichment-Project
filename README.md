@@ -26,6 +26,10 @@ Mouse scRNA-seq data were obtained from the Tuveson Lab, available under GEO acc
 GSEA focused on axonal guidance, neuron projection development, and cell motility pathways across majr CAF subtypes
 
 
+# Tools Used
+GSEA/ GSEApy: 
+* Fang Z, Liu X, Peltz G. GSEApy: a comprehensive package for performing gene set enrichment analysis in Python. Bioinforma Oxf Engl. 2023;39:btac757. 
+* Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA, et al. Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles. Proc Natl Acad Sci. Proceedings of the National Academy of Sciences; 2005;102:15545–50. 
 
 
 
